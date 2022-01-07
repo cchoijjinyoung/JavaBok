@@ -1,4 +1,4 @@
-# 2022-01-07
+# 메인매서드 살펴보기
 
 ```java
 public class Java100
